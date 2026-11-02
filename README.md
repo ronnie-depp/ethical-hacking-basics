@@ -1,4 +1,4 @@
-
+```
 ██████╗  █████╗ ███╗   ██╗███████╗ ██████╗ ███╗   ███╗██╗    ██╗ █████╗ ██████╗ ███████╗   ██╗     ██╗██╗   ██╗███████╗
 ██╔══██╗██╔══██╗████╗  ██║██╔════╝██╔═══██╗████╗ ████║██║    ██║██╔══██╗██╔══██╗██╔════╝   ██║     ██║██║   ██║██╔════╝
 ██████╔╝███████║██╔██╗ ██║███████╗██║   ██║██╔████╔██║██║ █╗ ██║███████║██████╔╝█████╗     ██║     ██║██║   ██║█████╗
@@ -10,7 +10,7 @@ Non nobis, sed securitati communi
 version v202609 (Underground Economy '26 edition) 
 by Julien Mousqueton
   Contact: @Julien.io on BlueSky
-
+```
 # ethical-hacking-basics
 # Ethical Hacking Basics - *Video Course (8 Modules)*
 ## Att&ck Mitre: enterprise attack groups v20.0
